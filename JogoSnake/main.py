@@ -10,7 +10,7 @@ tela = pygame.display.set_mode((largura, altura))
 relogio = pygame.time.Clock()
 
 # Música de fundo
-pygame.mixer.music.load("D:\\Programação\\Python\\JogoSnake\\Data\\Snake8b.mp3")
+pygame.mixer.music.load("D:\Programação\Projetos Python\Python - Cobrinha\JogoSnake\Data\Snake8b.mp3")
 pygame.mixer.music.play(-1)
 
 # Cores RGB
